@@ -1,0 +1,17 @@
+body
+{
+    background-color:purple;
+}
+
+form.stdForm
+{
+  margin-top:25%;
+  
+}
+
+.btn-success
+{
+    font-size:20px;
+    padding:5px 20px;
+    margin:8% 0 0 8%;
+}
